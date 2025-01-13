@@ -1,0 +1,11 @@
+name: "Sourcebot"
+website_url: "https://www.sourcebot.dev/"
+source_code_url: "https://github.com/sourcebot-dev/sourcebot"
+description: "Open source code search tool. Index and search across hundreds of repos through a single modern web interface."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
